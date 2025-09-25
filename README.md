@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome, I'm <strong>Mosco</strong></h1>
+<h1 align="center">👋 Welcome, I'm <strong>Thrrotle</strong></h1>
 <h3 align="center">🚀 Full-Stack Web Developer | 🎮 Expert FiveM Developer | 🧠 Tech Enthusiast</h3>
 
 <p align="center">
