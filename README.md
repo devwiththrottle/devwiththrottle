@@ -56,6 +56,6 @@
 <p align="left">
   <a href="https://discord.gg/mosco.o" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" height="30"/>
-    &nbsp; <strong>Discord:</strong> @mosco.o
+    &nbsp; <strong>Discord:</strong> @throttledev
   </a>
 </p>
