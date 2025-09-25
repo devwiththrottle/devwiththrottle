@@ -11,7 +11,7 @@
 ### 🧩 About Me
 
 - 🔧 I specialize in building high-performance FiveM servers using **QBCore**, **ESX**, and **custom frameworks**.
-- 🌍 Founder of [Mosco Developments](https://moscofivem.com) – delivering full-stack web solutions and immersive RP infrastructure.
+- 🌍 Founder of [Throttle Developments](https://throttlesolutions.dev) – delivering full-stack web solutions and immersive RP infrastructure.
 - 📦 Proficient in **server optimization**, **UI/UX design**, and **platform engineering**.
 - 📈 Focused on building scalable, secure, and creative tech systems for communities and businesses.
 
