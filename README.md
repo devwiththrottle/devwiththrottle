@@ -1,9 +1,8 @@
 <h1 align="center">👋 Welcome, I'm <strong>Thrrotle</strong></h1>
-<h3 align="center">🚀 Full-Stack Web Developer | 🎮 Expert FiveM Developer | 🧠 Tech Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | 🎮 Expert FiveM Game Developer | 🧠 Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://moscofivem.com" target="_blank"><strong>🌐 Visit My Website</strong></a> • 
-  <a href="https://discord.gg/mosco.o" target="_blank"><strong>💬 Join My Discord</strong></a>
+  <a href="https://throttlesolutions.dev" target="_blank"><strong>🌐 Visit My Website</strong></a> • 
 </p>
 
 ---
@@ -38,11 +37,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moscofivem&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devwiththrottle&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moscofivem&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devwiththrottle&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
